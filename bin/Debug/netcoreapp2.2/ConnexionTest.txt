@@ -1,0 +1,31 @@
+LookupCarrierByDotNumber:
+Lookup Carrier Success Data
+  Header
+    Legal Name: C B COOK
+    DBA Name: C & M TRANSPORT
+    DOT Number: 1258500
+    Docket: MC 232988
+    Physical Location
+      Street: 7506 COLORADO
+      City: HUNGERFORD
+      State or Province: TX
+      PostalCode: 77448
+      CountryCode: US
+      Phone Number
+        Number: 7134335922
+      Fax
+        Number: 7134338243
+    Mailing Location
+      Street: P O BOX 21275
+      City: HOUSTON
+      State or Province: TX
+      PostalCode: 77226
+      CountryCode: US
+      Phone Number
+        Number: 7134335922
+      Fax
+        Number: 7134338243
+  Inspections
+    Last Update: 2014-01-18 02:00:00
+There was an error in serializing body of message LookupCarrierRequest1: 'There was an error generating the XML document.'.  Please see InnerException for more details.
+There was an error generating the XML document.

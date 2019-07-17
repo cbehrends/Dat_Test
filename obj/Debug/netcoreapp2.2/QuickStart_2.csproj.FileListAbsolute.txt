@@ -1,0 +1,11 @@
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/obj/Debug/netcoreapp2.2/QuickStart_2.csprojAssemblyReference.cache
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/obj/Debug/netcoreapp2.2/QuickStart_2.csproj.CoreCompileInputs.cache
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/obj/Debug/netcoreapp2.2/QuickStart_2.AssemblyInfoInputs.cache
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/obj/Debug/netcoreapp2.2/QuickStart_2.AssemblyInfo.cs
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/bin/Debug/netcoreapp2.2/QuickStart.deps.json
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/bin/Debug/netcoreapp2.2/QuickStart.runtimeconfig.json
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/bin/Debug/netcoreapp2.2/QuickStart.runtimeconfig.dev.json
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/bin/Debug/netcoreapp2.2/QuickStart.dll
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/bin/Debug/netcoreapp2.2/QuickStart.pdb
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/obj/Debug/netcoreapp2.2/QuickStart.dll
+/Users/corey/Downloads/connexionQS/QS2/QuickStart_2/obj/Debug/netcoreapp2.2/QuickStart.pdb
